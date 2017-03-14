@@ -1,5 +1,9 @@
 # Invenio Troubleshooting
 
+**TL;DR:**:
+- [Search existing questions](https://github.com/inveniosoftware/troubleshooting/issues)
+- [Ask a question](https://github.com/inveniosoftware/troubleshooting/issues/new)
+
 The purpose of this repository is to serve as a troubleshooting knowledge base
 for Invenio, helping the community to better communicate and avoiding that the 
 same problem is rediscovered and solved multiple times by different developers. 
