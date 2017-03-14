@@ -4,6 +4,8 @@
 - [Search existing questions](https://github.com/inveniosoftware/troubleshooting/issues)
 - [Ask a question](https://github.com/inveniosoftware/troubleshooting/issues/new)
 
+#### Purpose
+
 The purpose of this repository is to serve as a troubleshooting knowledge base
 for Invenio, helping the community to better communicate and avoiding that the 
 same problem is rediscovered and solved multiple times by different developers. 
@@ -11,7 +13,7 @@ same problem is rediscovered and solved multiple times by different developers.
 We use the GitHub issues much like a forum to either ask questions or post solutions 
 to general problems encountered with Invenio.
 
-Trial period: We run this during a trial period of 2 months to see if it gains traction
+**Trial period:** We run this during a trial period of 2 months to see if it gains traction
 in the community.
 
 ### Communication channels
