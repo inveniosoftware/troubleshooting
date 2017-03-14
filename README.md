@@ -1,6 +1,6 @@
 # Invenio Troubleshooting
 
-**TL;DR:**:
+**TL;DR:**
 - [Search existing questions](https://github.com/inveniosoftware/troubleshooting/issues)
 - [Ask a question](https://github.com/inveniosoftware/troubleshooting/issues/new)
 
