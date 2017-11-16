@@ -13,9 +13,6 @@ same problem is rediscovered and solved multiple times by different developers.
 We use the GitHub issues much like a forum to either ask questions or post solutions 
 to general problems encountered with Invenio.
 
-**Trial period:** We run this during a trial period of 2 months to see if it gains traction
-in the community.
-
 ### Communication channels
 
 * Chat rooms *(preferred)*
@@ -45,7 +42,7 @@ in the community.
 
 ### What can I ask here?
 
-* Problems of general character which may/may not be Invenio specific.
+* Problems of general character which may/may not be Invenio specific (both for users and developers).
 * Bug reports should normally go to the specific repository. If you don't know
   where, then open an issue here and we will help you where it should be
   reported.
